@@ -6,10 +6,10 @@ An interactive web interface built using **HTML, CSS, and JavaScript** to displa
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Language--blue?logo=HTML%20CSS%20JAVASCRIPT%20-white">
+  <img src="https://img.shields.io/badge/Language-HTML%20CSS%20JS-blue?logo=html5&logoColor=white" alt="Language Badge">
   <img src="https://img.shields.io/badge/Level-Modurate%20-yellow">
   <img src="https://img.shields.io/badge/Status-Completed%20-brightgreen">
-  <img src="https://img.shields.io/badge/UI%Based-Website%20-orange">
+  <img src="https://img.shields.io/badge/UI%20 Based-Website%20-orange">
 </p>
 
 

@@ -1,6 +1,5 @@
-# PRODIGY-CS-05
+# PRODIGY-CS-05 : Network Packet Analyzer 
 
-## Network Packet Analyzer (Web-Based UI)
 
 An interactive web interface built using **HTML, CSS, and JavaScript** to display captured network packet data. Designed for **educational purposes** in cybersecurity and networking fundamentals.
 
